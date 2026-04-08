@@ -1,4 +1,5 @@
 <<<<<<<<< Temporary merge branch 1
-moj oblubeny jazyk je Python
-=========
 good news everyone!
+=========
+SQL nie je programovaci jazyk 
+>>>>>>>>> Temporary merge branch 2
