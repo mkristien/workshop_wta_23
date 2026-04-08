@@ -1,5 +1,4 @@
-<<<<<<<<< Temporary merge branch 1
 good news everyone!
 =========
-SQL nie je programovaci jazyk 
+dobrý deň
 >>>>>>>>> Temporary merge branch 2
