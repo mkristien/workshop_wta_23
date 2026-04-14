@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+konflikt wta 23
+=======
 <<<<<<< Updated upstream
 good news everyone!
 =========
