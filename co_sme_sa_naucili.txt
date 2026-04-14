@@ -1,0 +1,4 @@
+vytvoriť textový súbor
+pridať textový súbor na hlavnú os projektu 
+editovať textový súbor
+vyriešiť konflikt pri dvoch súčasných zmenách projektu 
