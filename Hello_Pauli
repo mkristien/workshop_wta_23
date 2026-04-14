@@ -1,0 +1,5 @@
+den=input ("aky mas den, napis dobry alebo zly")
+    if den = "dobry"
+        print ("to ma tesi")
+    else if den = "zly"
+        print  ("bude lepsie")
