@@ -1,4 +1,4 @@
+<<<<<<< Updated upstream
 good news everyone!
 =========
 dobrý deň
->>>>>>>>> Temporary merge branch 2
