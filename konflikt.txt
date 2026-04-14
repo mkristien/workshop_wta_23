@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+konflikt wta 23
+=======
 <<<<<<< Updated upstream
 good news everyone!
 dobrý deň
@@ -8,3 +11,4 @@ good news everyone!
 moj oblubeny jazyk je Python
 >>>>>>> origin/main
 >>>>>>> Stashed changes
+>>>>>>> origin/main
