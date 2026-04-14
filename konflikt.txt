@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
 good news everyone!
 dobrý deň
+=======
+<<<<<<< HEAD
+good news everyone!
+=======
+moj oblubeny jazyk je Python
+>>>>>>> origin/main
+>>>>>>> Stashed changes
