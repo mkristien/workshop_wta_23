@@ -1,0 +1,1 @@
+dnes je skvelý deň
