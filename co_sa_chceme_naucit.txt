@@ -1,0 +1,1 @@
+poslať kolegovi na projekte kod na revíziu predtým, ako ho pridám záväzne do projektu (ako revízie vo Worde)
